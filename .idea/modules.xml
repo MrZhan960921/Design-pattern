@@ -4,8 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/单例模式/单例模式.iml" filepath="$PROJECT_DIR$/单例模式/单例模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/工厂方法模式/工厂方法模式.iml" filepath="$PROJECT_DIR$/工厂方法模式/工厂方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/建造者模式/建造者模式.iml" filepath="$PROJECT_DIR$/建造者模式/建造者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/抽象工厂模式/抽象工厂模式.iml" filepath="$PROJECT_DIR$/抽象工厂模式/抽象工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/策略模式/策略模式.iml" filepath="$PROJECT_DIR$/策略模式/策略模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/装饰者模式/装饰者模式.iml" filepath="$PROJECT_DIR$/装饰者模式/装饰者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/观察者模式/观察者模式.iml" filepath="$PROJECT_DIR$/观察者模式/观察者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/设计模式.iml" filepath="$PROJECT_DIR$/设计模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/责任链模式/责任链模式.iml" filepath="$PROJECT_DIR$/责任链模式/责任链模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/迭代器模式/迭代器模式.iml" filepath="$PROJECT_DIR$/迭代器模式/迭代器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/适配器模式/适配器模式.iml" filepath="$PROJECT_DIR$/适配器模式/适配器模式.iml" />
     </modules>
   </component>
 </project>
